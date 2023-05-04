@@ -1,0 +1,2 @@
+# stitch-counter
+ scrimba project
